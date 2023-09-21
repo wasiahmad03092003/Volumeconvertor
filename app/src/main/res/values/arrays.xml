@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="volume_units">
+        <item>Liter</item>
+        <item>Milliliter</item>
+        <item>Gallon</item>
+        <!-- Add more volume units as needed -->
+    </string-array>
+</resources>
